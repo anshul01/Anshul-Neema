@@ -17,9 +17,6 @@
    - I have successfully implemented projects using Java Spring Boot, taking advantage of its robust features for creating RESTful APIs and microservices.
    - WebFlux has been my go-to framework for reactive programming, allowing me to build responsive applications that handle concurrent requests efficiently.
 
- * **Akka Framework:**
-   - My experience with the Akka framework has enabled me to create highly concurrent and fault-tolerant systems. Akka's actor-based model has proven invaluable for building scalable applications.
-
  * **Problem-Solving and Collaboration:**
    - Throughout my career, I have tackled complex challenges head-on. Whether it's optimizing performance or resolving critical issues, I thrive on finding elegant solutions.
    - As a team player, I collaborate effectively with cross-functional teams, ensuring seamless communication between developers, designers, and stakeholders.
