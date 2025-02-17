@@ -3,15 +3,17 @@
 <p>I am a dedicated and experienced Java backend developer with over 12 years of hands-on experience. My expertise lies in designing and implementing scalable solutions using Java, Spring Boot, Docker, Kubernetes, and cloud technologies. I thrive on solving complex problems and driving innovation in the tech industry.
 
  * **Languages and Frameworks:**
-   - **Java:** I have extensive experience working with Java, including Spring Boot and WebFlux.
-   - **Python:** I have developed an OpenAI RAG based solution for Hachathon using Python and Springboot.
-   - **TypeScript:** I am a learner in TypeScript, which allows me to build robust and scalable web applications.
-   - **AngularJS:** I have developed interactive user interfaces using AngularJS, ensuring seamless user experiences.
-   - **C# .NET:** My knowledge of C# .NET enables me to create efficient and reliable server-side applications.
-   - **JavaScript:** I am well-versed in JavaScript, using it to enhance client-side functionality.
+   - **Programming Languages:** Java 17, SQL, JavaScript, JQuery
+   - **Frameworks and Technologies:** Microservices, Spring Boot, Spring Framework, MVC, Hibernate, JPA, RESTful APIs
+   - **Databases:** MySQL, Oracle, Postgres, MongoDB, Neo4j, CosmosDB
+   - **Tools:** Maven, Gradle, Git, SVN, Jenkins, Bitbucket, TeamCity, Docker, Kubernetes, ELK
+   - **Messaging System:** Confluent Kafka, RabbitMQ
+   - **Development Tools:** Eclipse, NetBeans, Dreamweaver, Sublime, IntelliJ, VS Code, WinSCP, PuTTY
+   - **Methodologies:** Agile, Scrum
+   - **Operating Systems:** Windows 10, Windows 7, XP, UNIX, LINUX
 
  * **Cloud-Native Software:**
-   - I specialize in cloud-native software development. Leveraging platforms like AWS, Azure, or Google Cloud, I design and build scalable applications that can handle high traffic loads.
+   - I specialize in cloud-native software development. Leveraging platforms like Azure, I design and build scalable applications that can handle high traffic loads.
 
  * **Experience with Java Spring Boot and WebFlux:**
    - I have successfully implemented projects using Java Spring Boot, taking advantage of its robust features for creating RESTful APIs and microservices.
@@ -27,12 +29,12 @@
  * **Results-Driven Approach:**
    - My work is not just about writing code; it's about delivering value. I measure success by the impact my solutions have on end-users and business outcomes.
 
- * If you're looking for a full-stack developer who combines technical expertise with a passion for innovation, let's connect! I'm excited to contribute my skills to your next project.
+ * If you're looking for a web developer who combines technical expertise with a passion for innovation, let's connect! I'm excited to contribute my skills to your next project.
 
 
-- 🌱 I’m currently learning **GoLang, TypeScript, Spring Boot with WebFlux**
+- 🌱 I’m currently learning **GoLang, GraphQL, Spring Boot with AI**
 
-- 💬 Ask me about **Java, Python, Spring Boot, NodeJS, ReactJS, HTML CSS, JavaScript, Typescript and .Net**
+- 💬 Ask me about **Java, Spring Boot, Hibernate, MVC, Docker, Kubernetes and Cloud**
 
 - 📫 How to reach me **anshulneema87@gmail.com**
 
