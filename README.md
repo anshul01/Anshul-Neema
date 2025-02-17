@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anshul Neema </h1>
-<p>I have experienced as Java backend developer with around 12+ years of hands-on experience. My expertise in Java development, building backend systems.
+<p>I am a dedicated and experienced Java backend developer with over 12 years of hands-on experience. My expertise lies in designing and implementing scalable solutions using Java, Spring Boot, Docker, Kubernetes, and cloud technologies. I thrive on solving complex problems and driving innovation in the tech industry.
 
  * **Languages and Frameworks:**
    - **Java:** I have extensive experience working with Java, including Spring Boot and WebFlux.
