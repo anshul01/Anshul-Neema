@@ -43,7 +43,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anshul-neema-22085b50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshul-neema-22085b50/" height="30" width="40" /></a>   
 <a title="Home" href="/hc/en-us">
-          <img class="lt-topbar__logo" src="/hc/theming_assets/01J5BDHE8PM635NMBBMB3M6X68" alt="Logo">
+          <img class="lt-topbar__logo" src="https://help.medium.com/hc/theming_assets/01J5BDHE8PM635NMBBMB3M6X68" alt="Logo">
         </a>
 </p>
 
